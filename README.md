@@ -8,8 +8,6 @@ Introduction
 
 Coloranalyzer is a app to analyze images using vectorscope, waveform and histogram scopes.
 
-![Sample image or figure.](images/image.png 'logctool')
-
 Building
 --------
 
